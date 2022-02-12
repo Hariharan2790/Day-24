@@ -1,0 +1,37 @@
+.split {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  .left{
+      width: 30%;
+      left: 0;
+      background-color: aquamarine;
+  }
+  .right{
+    width: 70%;
+    right: 0;
+    background-color:aliceblue;
+
+}
+.form-control{
+    width: 75%;
+    border: 1px solid black;
+}
+.form{
+    margin-left: 20px;
+}
+label{
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+}
+.table{
+    
+    
+    margin-top: 10px;
+}
